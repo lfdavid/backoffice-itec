@@ -1,17 +1,15 @@
-package com.itec;
+package ar.edu.itec;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
 /**
- * Unit test for simple App.
+ * Prueba basica para verificar que JUnit 5 se ejecuta correctamente.
  */
 public class AppTest {
 
-    /**
-     * Rigorous Test :-)
-     */
+    /** Verifica el caso mas simple; se reemplazara por pruebas reales. */
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);
