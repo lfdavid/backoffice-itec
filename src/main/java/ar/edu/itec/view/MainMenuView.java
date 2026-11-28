@@ -10,7 +10,7 @@ public class MainMenuView {
             System.out.println("############################");
             System.out.println("#     BACKOFFICE ITEC      #");
             System.out.println("############################");
-            System.out.println("0. Exit");
+            System.out.println("0. Salir");
             option = readOption("Selecciona una Opción: ");
             if (option != 0) {
                 System.out.println("ERROR: Opción Inválida");
